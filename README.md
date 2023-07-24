@@ -11,6 +11,6 @@ https://huggingface.co/distilbert-base-uncased-distilled-squad.
 ## App deployement: 
 
 * We deploy the app using streamlit.io with github
-
+## App link: https://demoappappml-2zboit7wd69.streamlit.app/
   ![Brave](https://github.com/Kili66/demo_app_qa_ML/assets/66678981/d752aaef-2107-4d9a-9a38-47afadbc95f7)
 
